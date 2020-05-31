@@ -1,0 +1,24 @@
+.floating {
+	bottom: 50px;
+	display: none;
+	position: fixed;
+	right: 28px;
+    z-index: 30;
+    opacity: 0.6;
+    &:hover {
+        opacity: 0.9;
+        @include delay;
+    }
+    a {
+        background: blue;
+        border-radius: 50%;
+        color: #fff;
+        display: block;
+        font-size: 20px;
+        height: 60px;
+        line-height: 60px;
+        text-align: center;
+        text-decoration: none;
+        width: 60px;
+    }
+}

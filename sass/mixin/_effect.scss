@@ -1,0 +1,12 @@
+@mixin hover-opacity {
+    opacity: 0.6;
+    transition: all 0.3s ease 0s;
+}
+
+@mixin shadow {
+    box-shadow: 0 0px 20px rgba(0,0,0,0.3);
+}
+
+@mixin delay {
+    transition: all 0.3s ease 0s;
+}
