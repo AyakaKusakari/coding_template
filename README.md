@@ -4,12 +4,12 @@ cloneして使えば、コーディングの時間短縮！
 
 ## 使い方
 
-`$ git clone https://github.com/AyakaKusakari/coding-template.git`
+1. `$ git clone https://github.com/AyakaKusakari/coding-template.git`
 
-中身を新規プロジェクトへコピペ
+2. 中身を新規プロジェクトへコピペ
 
-`$ cd 新規プロジェクトファイル`
+3. `$ cd 新規プロジェクトファイル`
 
-`$ npm install`
+4. `$ npm install`
 
-`$ gulp`
+5. `$ gulp`
