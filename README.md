@@ -6,7 +6,7 @@ cloneして使えば、コーディングの時間短縮！
 
 1. ターミナルで下記コマンドを入力
 
-`$ git clone https://github.com/AyakaKusakari/coding-template.git`
+`$ git clone https://github.com/AyakaKusakari/coding_template.git`
 
 2. 中身を新規プロジェクトへコピペ
 
