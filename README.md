@@ -15,3 +15,7 @@ cloneして使えば、コーディングの時間短縮！
 4. `$ npm install`
 
 5. `$ gulp`
+
+## 注意
+
+`@media screen and (max-width: 767px)`と`@media screen and (max-width: 1099px)`が逆にコンパイルされる
